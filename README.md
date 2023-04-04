@@ -1,6 +1,6 @@
 # Zsombor Töreky :v:
 
-**`Aspiring Software Engineer` :computer:**
+**`Aspiring Pragmatic Programmer` :computer:**
 
 I'm Zsombor Töreky, a hungarian Computer Science Student. 
 I'm mostly focusing on becoming a backend developer.
