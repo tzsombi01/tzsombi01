@@ -3,8 +3,13 @@
 **`Aspiring Pragmatic Programmer` :computer:**
 
 I'm Zsombor Töreky, a hungarian Computer Science Student. 
-I'm mostly focusing on becoming a backend developer.
+
+I'm mostly focusing on becoming a backend / fullstack developer.
+
+I've recently completed an internship, which was focusing on Java (Spring), with tools such as Docker, PostgreSQL, GitLab and Jira. I've built 3 projects, the final one will be used to handle the challenges among team members accross the company (100+ people).
+
 I've worked on various projects, including python automization tasks, backend focused application using java spring and even worked with AR (Hololens 1, Unity), creating a CT viewing application, planning to be tested and used in medicine.
+
 I fluently write and speak in english (C1 language certificate) and I have a passive German knowledge (B2 language certificate).
 New challenges are always welcome :grin:
 
